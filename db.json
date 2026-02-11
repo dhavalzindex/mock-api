@@ -4,15 +4,45 @@
       "id": "col-001",
       "title": "DSGN Animals",
       "totalItems": 1025,
-      "coverImage": "https://picsum.photos/400/300?random=1",
+      "coverImage": "https://picsum.photos/400/300?random=11",
       "previewImages": [
-        "https://picsum.photos/100/100?random=2",
-        "https://picsum.photos/100/100?random=3"
+        "https://picsum.photos/100/100?random=12",
+        "https://picsum.photos/100/100?random=13"
       ],
       "creator": {
         "id": "user-001",
         "name": "MrFox",
-        "avatar": "https://i.pravatar.cc/40?img=1"
+        "avatar": "https://i.pravatar.cc/40?img=11"
+      }
+    },
+    {
+      "id": "col-002",
+      "title": "Magic Mushrooms",
+      "totalItems": 2048,
+      "coverImage": "https://picsum.photos/400/300?random=21",
+      "previewImages": [
+        "https://picsum.photos/100/100?random=22",
+        "https://picsum.photos/100/100?random=23"
+      ],
+      "creator": {
+        "id": "user-002",
+        "name": "Shroomie",
+        "avatar": "https://i.pravatar.cc/40?img=22"
+      }
+    },
+    {
+      "id": "col-003",
+      "title": "Disco Machines",
+      "totalItems": 3560,
+      "coverImage": "https://picsum.photos/400/300?random=31",
+      "previewImages": [
+        "https://picsum.photos/100/100?random=32",
+        "https://picsum.photos/100/100?random=33"
+      ],
+      "creator": {
+        "id": "user-003",
+        "name": "BeKind2Robots",
+        "avatar": "https://i.pravatar.cc/40?img=33"
       }
     }
   ]
