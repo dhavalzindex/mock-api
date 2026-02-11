@@ -29,6 +29,21 @@
         "name": "Shroomie",
         "avatar": "/images/shroomie.webp"
       }
+    },
+    {
+      "id": "col-003",
+      "title": "Disco Machines",
+      "totalItems": 3560,
+      "coverImage": "/images/machine-cover.webp",
+      "previewImages": [
+        "/images/machine-img1.webp",
+        "/images/machine-img2.webp"
+      ],
+      "creator": {
+        "id": "user-003",
+        "name": "BeKind2Robots",
+        "avatar": "/images/robot.webp"
+      }
     }
   ]
 }
