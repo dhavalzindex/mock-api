@@ -1,0 +1,19 @@
+{
+  "collections": [
+    {
+      "id": "col-001",
+      "title": "DSGN Animals",
+      "totalItems": 1025,
+      "coverImage": "https://picsum.photos/400/300?random=1",
+      "previewImages": [
+        "https://picsum.photos/100/100?random=2",
+        "https://picsum.photos/100/100?random=3"
+      ],
+      "creator": {
+        "id": "user-001",
+        "name": "MrFox",
+        "avatar": "https://i.pravatar.cc/40?img=1"
+      }
+    }
+  ]
+}
